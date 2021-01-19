@@ -1,6 +1,6 @@
 {
   "name": "cra-template-barebone-setup",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "- Components: All main components for the app\r - Structure: \"Wrapper\" components/Bigger components meant for the structure of the app\r - Context: Context API initializations\r - Styles: All styles, comes with main.css installed (basic body/html styles and font installed)",
   "main": "index.js",
   "scripts": {
